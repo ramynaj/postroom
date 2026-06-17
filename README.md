@@ -1,6 +1,6 @@
 # Postroom
 
-![Postroom — email chaos to organised inbox](postroom-hero.png)
+![Postroom — email chaos to organised inbox](postroom-hero-01.png)
 
 A Gmail labelling system powered by Claude Haiku 4.5.
 
