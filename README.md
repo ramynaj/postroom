@@ -1,5 +1,7 @@
 # Postroom
 
+![Postroom — email chaos to organised inbox](postroom-hero.png)
+
 A Gmail labelling system powered by Claude Haiku 4.5.
 
 Postroom runs inside your Google account once a day and automatically labels your incoming emails using AI. It reads the sender address and subject line of each new email, asks Claude which label it belongs to, and applies that label. No manual tagging. No preset rules.
@@ -64,6 +66,8 @@ Connect Claude to your Gmail. Let Claude audit your inbox, suggest a personalise
 Full walkthrough at [ramynaj.substack.com](https://ramynaj.substack.com)
 
 ---
+
+![Postroom script workflow — script running and labels applied in Gmail](postroom-script-workflow.png)
 
 ## Installation
 
